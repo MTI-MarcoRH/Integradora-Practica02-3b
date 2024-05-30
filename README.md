@@ -20,6 +20,7 @@ EJEMPLOS:
 ### 2. Separadores (SEPARATORS)
 Si desea marcar una separación más visual de contenidos pordemos utilizarlos indicando tres caractres de "-" continuos, en el maquetado
 
-EJEMPLO
+EJEMPLO: 
 ---
+
 *Esto es similar a un tag de <HR> en HTML.
