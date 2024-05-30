@@ -47,5 +47,9 @@ Este párrafo está alineado a la derecha utilizando la propiedad de alineación
 <p align="center">
 Este  párrafo esta centrado usando la propiedad de alineación  Este  párrafo esta centrado usando la propiedad de alineación  Este  párrafo esta centrado usando la propiedad de alineación  Este  párrafo esta centrado usando la propiedad de alineación Este  párrafo esta centrado usando la propiedad de alineación Este  párrafo esta centrado usando la propiedad de alineación  Este  párrafo esta centrado usando la propiedad de alineación  Este  párrafo esta centrado usando la propiedad de alineación  Este  párrafo esta centrado usando la propiedad de alineación  Este  párrafo esta centrado usando la propiedad de alineación 
 </p>
+
+<p align="justify">
+Este párrafo estará justificado utilizando la propiedad de alineación Este párrafo estará justificado utilizando la propiedad de alineación Este párrafo estará justificado utilizando la propiedad de alineación Este párrafo estará justificado utilizando la propiedad de alineación Este párrafo estará justificado utilizando la propiedad de alineación Este párrafo estará justificado utilizando la propiedad de alineación Este párrafo estará justificado utilizando la propiedad de alineación Este párrafo estará justificado utilizando la propiedad de alineación
+</p>
  
  
