@@ -8,7 +8,8 @@
 ### 1. Encabezados o Títulos (HEADERS) 
 <p align="justify">Para poder realizar una buena documentación del proyecto debemos, distribuir correctamente los contenido, para poder delimitar o hacer énfasis (enfatizar) , es decir resaltar las secciones importantes, podemos utilizar los siguiente: </p>
 
-EJEMPLOS: 
+**EJEMPLOS:**
+
 # Encabezado de Nivel 1 - Similar a H1 en HTML 
 ## Encabezado de Nivel 2 - Similar a H2 en HTML 
 ### Encabezado de Nivel 3 - Similar a H3 en HTML 
@@ -18,12 +19,15 @@ EJEMPLOS:
 ####### Encabezado de Nivel 7 - Solo 6 son los niveles permitidos, a partir de este el maquetado será ignorado.
 
 ### 2. Separadores (SEPARATORS)
-<p align="justify">Si desea marcar una separación más visual de contenidos pordemos utilizarlos indicando tres caractres de "-" continuos, en el maquetado.</p>
+<p align="justify">Si desea marcar una separación más visual de contenidos pordemos utilizarlos indicando tres caracteres de "-" continuos, en el maquetado.</p>
 
 **EJEMPLO:** 
----
 
-*Esto es similar a un tag de < HR > en HTML.
+Texto sección
+---
+Después del separador. 
+
+
 
 ### 3. Párrafos (PARAGRPAHS)
 <p align="justify">Son utilizados para por presentar grandes secciones de texto que describen detalladamente las secciones de la documentación del proyecto.</p>
