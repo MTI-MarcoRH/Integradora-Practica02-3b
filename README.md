@@ -71,7 +71,8 @@ Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Te
 
 ##### Texto en Negrita y Cursiva (BOLD & ITALIC)
 
-<p align="justify">De igual manera podemos unir ammbos estilos  **Negrita** y *Cursiva* para resaltar los textos que consideremos importantes dentro de la documentación de nuestros proyectos de software, utilizando un triple * (asterísco).</p>
+
+De igual manera podemos unir ammbos estilos  **Negrita** y *Cursiva* para resaltar los textos que consideremos importantes dentro de la documentación de nuestros proyectos de software, utilizando un triple * (asterísco).
 
 **EJEMPLO:**
 
