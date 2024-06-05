@@ -85,7 +85,7 @@ Texto Texto Texto Texto Texto ***Texto en Negrita y Cursiva*** Texto Texto Texto
 
 ##### Subrayado (UNDERLINE)
 
-<p align="justify">Algunas veces necesitaremos subraya texto dentro de la documentación, para ello, si bien markdown no tiene un atajo o codificación rápida podemos utilizar el estilo que usa el estándar de HTML  usando el tag \<ins> y cerrando con  \</ins></p>.
+Algunas veces necesitaremos subraya texto dentro de la documentación, para ello, si bien markdown no tiene un atajo o codificación rápida podemos utilizar el estilo que usa el estándar de HTML  usando el tag \<ins> y cerrando con  \</ins>.
 
 **EJEMPLO:**
 
