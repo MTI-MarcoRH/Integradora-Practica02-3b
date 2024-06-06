@@ -105,3 +105,22 @@ Para listar las carpetas y archivos en desde una terminal de sistema operativo W
 > C:/dir
 
 Después oprimimos la tecla  "Enter".
+
+También podemos ingresar textos multilínea
+
+**EJEMPLO:**
+
+>Aquí se ingresan un conjunto de instrucciones
+>para explicar al usuario, cómmo instalar el
+>software que hemos diseñado.
+
+Y si deseamos inclur viñetas para enlistar pasos podemos utilizar el caracter - dentro del texto a documentar.
+
+**EJEMPLO:**
+**Pasos para Instalar la Base de Datos:**
+> - Descargar MySQL Server del Sitio Oficial
+> - Instalar el Sistema Gestor de Bases de Datos, definiendo el puerto y contraseña para el usuario ***root***
+> - Descargamos el archivo de respaldo de la base de datos (.sql)
+> - Restauramos la Base de Datos usando el comando *mysql *
+>> C:/Program Files/MySQL/MySQL Server 8.0/bin/mysql -u root -p password \< respaldo.sql
+
