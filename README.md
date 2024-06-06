@@ -153,4 +153,5 @@ Pero si deseamos poner solo las ligas directas o un correo electrónico podemos 
 **EJEMPLO:**
 
 Documentación creada por:  ***M.T.I. Marco Antonio Ramírez Hernández***  <marco.ramirez@utxicotepec.edu.mx>
+
 <http://www.utxicotepec.edu.mx>
