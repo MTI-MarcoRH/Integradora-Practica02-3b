@@ -146,7 +146,7 @@ usando los tags  \<ol> y \<li>:
 
 **EJEMPLO:**
 
-<ol starts="5">
+<ol start="5">
  <li>Quinto</li>
  <li>Sexto</li>
  <li>Séptimo</li>
