@@ -131,7 +131,7 @@ Si en nuestra documentación necesitamos incluir información en modo de lista, 
 
 **EJEMPLO:**
 Para crear tu primer repositorio en GitHub deberás: 
-1. Contar con cuenta de GitHub.
+5. Contar con cuenta de GitHub.
 1. Dar click en el boton: **Nuevo Repositorio*
 2. Asignarle un Nombre a tu repositorio, por ejemplo:   *practica03-3b*
 8. Asignarle un nivel de privacidad  entre
