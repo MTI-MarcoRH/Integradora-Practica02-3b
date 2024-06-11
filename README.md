@@ -141,6 +141,17 @@ Para crear tu primer repositorio en GitHub deberás:
 50. Definir si habrá exclusiones de archivo a través del archivo: *.gitignore*
 3. Guardar los cambios.
 
+Si queremos usar un orden que comientce en número específico debemos utilizar código HTML,
+usando los tags  \<ol> y \<li>:
+
+**EJEMPLO:**
+
+<ol starts="5">
+ <li>Quinto</li>
+ <li>Sexto</li>
+ <li>Séptimo</li>
+</ol>   
+
 
 #### 7. Ligas (Hipervínculos)
 Las ligas son utilizadas para vincular elementos o referencias del proyecto dentro del mismo repositorio o fuera de el. Y se maquetan utilizanlo los corchetes \[ \], inmediatamente despues pondrémos la liga de referencia entre parentesis \( \)
