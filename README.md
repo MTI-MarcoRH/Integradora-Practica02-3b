@@ -200,12 +200,12 @@ Dado que en el ejemplo pasado usando solo markdown no se puede realizar la fusi√
 **EJEMPLO:**
 
 <table>
- <th>
-  <td>Encabezado 1</td>
- <td>Encabezado 2</td>
- <td>Encabezado 3</td>
- <td>Encabezado 4</td>
-</th>
+ <tr>
+  <th>Encabezado 1</th>
+ <th>Encabezado 2</th>
+ <th>Encabezado 3</th>
+ <th>Encabezado 4</th>
+</tr>
  <tr>
    <td>Fila 1 Celda 1</td>
   <td>Fila 1 Celda 2</td>
@@ -215,7 +215,7 @@ Dado que en el ejemplo pasado usando solo markdown no se puede realizar la fusi√
  
  <tr>
    <td>Fila 2 Celda 1</td>
-  <td colspan=3>Fila 2 Celda 2</td>
+  <td colspan=3 align="center">Fila 2 Celda 2</td>
  </tr>
 
  <tr>
