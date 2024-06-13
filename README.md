@@ -252,4 +252,4 @@ Si la documentación requiere de incorporar imágenes, equemas , modelos, fotogr
 
 **EJEMPLO:**
 
-![Picachu](https://www.google.com/imgres?q=pikachu&imgurl=https%3A%2F%2Fi.pinimg.com%2F736x%2Fdc%2Fab%2Fb7%2Fdcabb7fbb2f763d680d20a3d228cc6f9.jpg&imgrefurl=https%3A%2F%2Far.pinterest.com%2Fpin%2F804103708459085464%2F&docid=zi1q8il6e7L3FM&tbnid=Gl400rrVeOPtuM&vet=12ahUKEwjF5qTuxNmGAxUQLkQIHQRPA8kQM3oECGIQAA..i&w=735&h=723&hcb=2&ved=2ahUKEwjF5qTuxNmGAxUQLkQIHQRPA8kQM3oECGIQAA)
+![Picachu](https://github.com/MTI-MarcoRH/Integradora-Practica02-3b/blob/main/Pikachu.jpg)
