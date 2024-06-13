@@ -170,7 +170,7 @@ Documentación creada por:  ***M.T.I. Marco Antonio Ramírez Hernández***
 
 #### 8. Tablas (TABLES)
 
-Si la documentación lo requiere podemos presentar información en formato de tablas con filas  y columnas, para maquetarlas podemos utiliziar el carácter  \| para delifitar las columnas y \- para delimitar las filas.
+Si la documentación lo requiere podemos presentar información en formato de tablas con filas  y columnas, para maquetarlas podemos utiliziar el carácter  \| para delifitar las columnas y \- para delimitar las filas. 
 
 **EJEMPLO:**
 
@@ -238,10 +238,18 @@ Dado que en el ejemplo pasado usando solo markdown no se puede realizar la fusi�
 </tr>
 
 <tr>
- <td>Fila 5 Celda 1</td> 
- <td>Fila 5 Celda 2</td>
- <td>Fila 5 Celda 3</td>
- <td>Fila 5 Celda 4</td>
+ <td>Fila 6 Celda 1</td> 
+ <td>Fila 6 Celda 2</td>
+ <td>Fila 6 Celda 3</td>
+ <td>Fila 6 Celda 4</td>
 </tr>
 
 </table>
+
+#### 9. Imágenes 
+
+Si la documentación requiere de incorporar imágenes, equemas , modelos, fotografías, o cualquier representación gráfica, utilizaremos la estuctura de la ligas, maquetanto el nombore de la imagen entre corchetes con  un signo de admiración de cierre y la liga de referencia a la imagen usando parentesis. 
+
+**EJEMPLO:**
+
+[!Picachu](https://www.google.com/imgres?q=pikachu&imgurl=https%3A%2F%2Fi.pinimg.com%2F736x%2Fdc%2Fab%2Fb7%2Fdcabb7fbb2f763d680d20a3d228cc6f9.jpg&imgrefurl=https%3A%2F%2Far.pinterest.com%2Fpin%2F804103708459085464%2F&docid=zi1q8il6e7L3FM&tbnid=Gl400rrVeOPtuM&vet=12ahUKEwjF5qTuxNmGAxUQLkQIHQRPA8kQM3oECGIQAA..i&w=735&h=723&hcb=2&ved=2ahUKEwjF5qTuxNmGAxUQLkQIHQRPA8kQM3oECGIQAA)
